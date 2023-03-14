@@ -25,7 +25,7 @@ R: O valor será 91
 (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número,
 ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
-R: Está nos arquivos Java.
+R: Está nos arquivos Java com nome de Fibonacci.java.
 
 3) Descubra a lógica e complete o próximo elemento:
 
@@ -51,6 +51,10 @@ c) A lógica é elevar ao quadrado o número anterior. O próximo número é 49.
 d) A lógica é adicionar 12 ao número anterior. O próximo número é 100.
 e) A lógica é somar os dois números anteriores. O próximo número é 13.
 f) A lógica é somar 8 ao primeiro número, somar 2 ao segundo número, somar 4 ao terceiro número e assim por diante. O próximo número é 20.
+
+
+
+
 
 
 5) Escreva um programa que inverta os caracteres de um string.
