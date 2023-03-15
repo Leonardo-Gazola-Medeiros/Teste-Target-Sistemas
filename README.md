@@ -66,12 +66,16 @@ b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mai
 c) Explique como chegou no resultado.
 
 
-R:  Primeiro tem-se de calcular o tempo que o caminhão leva para chegar a Ribeirão Preto sem o pedágio. Para isso, foi usada a seguinte formula:
+R:  
+
+                                Primeiro tem-se de calcular o tempo que o caminhão leva para chegar a Ribeirão Preto 
+                                            sem o pedágio. Para isso, foi usada a seguinte formula:
 
                                                           S = Vo*t + So
                                                           
-    Como o caminhão começou em Franca, assume-se que sua posição So é de 100 000m. Enquanto sua velocidade inicial de 80km/h, convertida para metros/s
-    é igual a 22,22m/s. Assim temos a formula acima como:
+                                      Como o caminhão começou em Franca, assume-se que sua posição So é de 100 000m.
+                                      Enquanto sua velocidade inicial de 80km/h, convertida para metros/s
+                                      é igual a 22,22m/s. Assim temos a formula acima como:
                                                       
                                                           0 = -22,22*t + 100 000
                                                           
